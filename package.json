@@ -1,0 +1,10 @@
+{
+  "name": "fm-match-hub",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Football Manager の試合記録・分析・試合準備プラットフォーム",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "start": "npx --yes serve -l 5173 ."
+  }
+}
